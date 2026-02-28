@@ -1,0 +1,20 @@
+h1 {
+  color: rgb(255, 255, 255);
+}
+h1 {
+  text-shadow: 0 0 3px #93cefe, 0 0 5px #0e0ede;
+}
+p {
+  color: rgb(126, 186, 255);
+}
+img{
+  border: 2px solid rgb(0, 0, 0)
+}
+.images{
+  display: block;
+  object-fit: cover;
+  border: 1px solid red;
+}
+.scale{
+object-fit: scale-down;
+}
